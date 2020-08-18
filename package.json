@@ -1,0 +1,26 @@
+{
+  "name": "kickstarter",
+  "version": "1.0.0",
+  "description": "Decentralized Kickstarter Project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chetanyachopra/Decentralized-KickStarter.git"
+  },
+  "author": "Chetanya Chopra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chetanyachopra/Decentralized-KickStarter/issues"
+  },
+  "homepage": "https://github.com/chetanyachopra/Decentralized-KickStarter#readme",
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "ganache-cli": "^6.10.1",
+    "mocha": "^8.1.1",
+    "solc": "^0.4.17",
+    "web3": "^1.0.0-beta.26"
+  }
+}
